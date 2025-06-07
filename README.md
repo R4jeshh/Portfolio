@@ -1,6 +1,6 @@
 # Portfolio Website  
 
-![Portfolio Preview](assets/images/screenshot.png)  
+![Portfolio Preview](https://i.ibb.co/MD78fk4c/Img2url-bot.jpg)  
 
 A modern, responsive portfolio showcasing my skills as a **Full Stack Developer**.  
 
